@@ -1,34 +1,27 @@
-# 📊 Business Analysis Case Study – Digital Service Improvement
+# Business Analysis Case Study – Digital Service Improvement
 
-## 📌 Overview
-This project demonstrates end-to-end Business Analysis activities including requirements elicitation, user story creation, RTM, and UAT testing.
+## Overview
+This project demonstrates end-to-end Business Analysis activities including requirements elicitation, user stories, UAT testing, and defect tracking in an Agile environment.
 
-## 🧩 Business Problem
-A digital service platform was experiencing:
-- High defect rates
+## Business Problem
+A digital service platform faced:
+- High post-release defects
 - Unclear requirements
 - Poor stakeholder alignment
 
-## 🎯 Objectives
-- Improve requirement clarity
-- Reduce defects
-- Enhance delivery quality
-
-## 🛠 Approach
-- Conducted requirements analysis
-- Defined user stories and acceptance criteria
-- Created Requirements Traceability Matrix (RTM)
+## Approach
+- Gathered and documented business requirements
+- Created user stories and acceptance criteria
 - Designed UAT test cases
+- Maintained defect log for issue tracking
 
-## 📁 Deliverables
-- BRD.md
-- user-stories.md
-- acceptance-criteria.md
-- RTM.xlsx
-- UAT-test-cases.md
-- defect-log.md
+## Deliverables
+- User Stories
+- UAT Test Cases
+- Defect Log
 
-## 📈 Expected Impact
-- Reduced defects
-- Improved delivery efficiency
-- Better stakeholder communication
+## Key Outcome
+Simulated a structured BA approach to improve requirement clarity, reduce defects, and enhance delivery quality.
+
+## Skills Demonstrated
+Business Analysis | Requirements Elicitation | UAT | Agile | Stakeholder Management
